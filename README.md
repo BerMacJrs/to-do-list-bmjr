@@ -1,4 +1,4 @@
-# to-do-list-bmjr
+# To Do List In Class Build by BMJR
 This is a to-do list that demonstrates using various selectors in CSS.
 
 ## Installation
